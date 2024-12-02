@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Mishra</h1>
-<h3 align="center">A passionate about Data Science</h3>
+<h3 align="center">I am passionate about Data Science</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
