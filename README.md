@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning and Creating
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me punmishra123@gmail.com
-- ⚡ Fun fact: S
+
 
 <!---
 HarshdeepMishra/HarshdeepMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
